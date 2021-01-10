@@ -1,14 +1,6 @@
 # 999Dice Premium Script
 An Dice mining script for [999DOGE]( https://www.999doge.com/?319436992)
 
-<p align="center">
-  <img src="preview.png" alt="preview">
-</p>
-
-<p align="center">
-  <img src="preview2.png" alt="preview">
-</p>
-
 ## Get Started
 
 ### Ubuntu
