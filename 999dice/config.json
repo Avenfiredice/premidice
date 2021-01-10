@@ -1,0 +1,47 @@
+{
+
+ "Account": {
+     "Username": "xxx",
+     "Password": "xxx"
+     },
+ "Target Profit": "0",
+ "Target Win": "0",
+ "Lose Target": "0",
+ "Reset If Target Profit": "OFF",
+ "Reset If Target Win": "OFF",
+ "Interval": "0",
+ "Config": [{
+
+     "Name Bet Set": "Mining Stabil",
+     "Base Bet": "0.001",
+     "Max Bet": "OFF",
+     "Chance": "95",
+     "Random Chance": {
+          "Toggle": "ON",
+          "Min": "35",
+          "Max": "35.55"
+        },
+     "Bet": {
+          "Bet": "LOW",
+          "Hi / Low": {
+              "Toggle": "OFF",
+              "If Lose": "0",
+              "If Win": "0"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "1.7",
+     "Reset If Win": "0",
+     "Reset If Profit": "0.00000001",
+     "Interval": "0"
+     }
+  ],
+  "Auto Wd": {
+       "Toggle": "OFF",
+       "If Balance": "0",
+       "Wallet Address": "",
+       "Amount": ""
+      },
+  "User-Agent": "Android Phone / Chrome 65 [Mobile]:Mozilla/5.0 (Linux; Android 8.0; BLA-L29 Build/HUAWEIBLA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3236.6 Mobile Safari/537.36"
+
+}
